@@ -2,10 +2,17 @@
 
 ## Sumário
 - [Sobre](#sobre)
+- [Requisitos](#requisitos)
 - [Executar o projeto](#como-executar-o-projeto)
 
 ## Sobre
 Este projeto visa criar uma calculadora que siga os requisitos presentes no projeto https://github.com/fnoriduki/Calculadora/blob/main/README.md.
+
+## Requisitos
+
+|Recurso|Versão|Obrigatório|Nota|
+|-|-|-|-|
+|Golang| 1.21|Sim|Necessário para rodar localmente|
 
 ## Executar o projeto
 É possivel executar o projeto através do Makefile
